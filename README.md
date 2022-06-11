@@ -14,3 +14,5 @@ an windows application for listen clipboard history
 - 一个简易的悬浮窗程序
 - 记录剪切板的历史内容
 - 内嵌部分工具
+# preview
+![image](https://github.com/Ice2Faith/win-clipboard-history/blob/main/preview/win-his-01.png)
